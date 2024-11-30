@@ -1,4 +1,4 @@
-The ``SimBIG`` Team
+Our Team
 ===================
 |chang| |michael| |shirley| |jiamin| |pablo| |elena| |chirag| |azadeh| |liam| |bruno| 
 
