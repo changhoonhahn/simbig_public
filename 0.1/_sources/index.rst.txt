@@ -56,3 +56,4 @@ Contact
    :maxdepth: 2
 
    team
+   papers
